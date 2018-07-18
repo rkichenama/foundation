@@ -17,6 +17,17 @@
   },
   "homepage": "https://github.com/rkichenama/foundation#readme",
   "dependencies": {
-    "hygen": "^1.6.2"
+    "@babel/core": "^7.0.0-beta.54",
+    "@babel/preset-env": "^7.0.0-beta.54",
+    "@babel/preset-react": "^7.0.0-beta.54",
+    "@babel/preset-stage-2": "^7.0.0-beta.54",
+    "hygen": "^1.6.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "webpack": "^4.16.1",
+    "webpack-command": "^0.4.1",
+    "webpack-serve": "^2.0.2"
   }
 }
